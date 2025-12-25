@@ -19,7 +19,7 @@ The dataset contains the following columns:
 - Release Year
 - Critic Score
 
-This dataset contains information about Video Games from 1970-2024. It contains all the games released in the timeline by different genres, publishers, consoles, game ratings, sales etc. But the Sales data is not available from the year 2019. I created 2 Excel files a) File containing the original data b) File containing only Sales Data till 2019. 
+This dataset contains information about Video Games from 1970-2024. It contains all the games released in the timeline by different genres, publishers, consoles, critics score, sales etc. **The dataset contained ~70% missing sales values. Instead of imputing blindly, I analyzed missingness patterns, separated reported vs unreported records, and derived insights from both revenue and non-revenue attributes. This ensured analytical integrity.**
 
 ### Dashboard File
 My final dashboard is in [Video_Games_Chart_Final.xlsx](https://github.com/user-attachments/files/24339663/Video_Games_Chart_Final.xlsx)
