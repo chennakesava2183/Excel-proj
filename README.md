@@ -71,10 +71,12 @@ My final dashboard is in [Video_Games_Chart_Final.xlsx](https://github.com/user-
 ---
 
 ## Insights & Observations
-- Certain platforms consistently outperform others in global sales.
+- Certain platforms consistently outperform others in global usage.
 - Game releases peaked during specific years.
 - A small number of publishers contribute to the majority of sales.
 - Higher critic scores generally correlate with stronger sales performance.
+- Top 3 Genres outperformed other Genres in Sales by a huge margin.
+- Most users prefer playing games on PC rather than PS or XBox.
 
 ---
 
